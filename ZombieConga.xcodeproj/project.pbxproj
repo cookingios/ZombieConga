@@ -415,6 +415,7 @@
 				BDEFAD9B1A4C144F005C7A9E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BDEFAD9C1A4C144F005C7A9E /* Build configuration list for PBXNativeTarget "ZombieCongaTests" */ = {
 			isa = XCConfigurationList;
@@ -423,6 +424,7 @@
 				BDEFAD9E1A4C144F005C7A9E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
